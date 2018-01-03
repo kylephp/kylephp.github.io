@@ -1,18 +1,69 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: API development
+  level: 90%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
+  name: CI & CD
+  level: 75%
 - skill:
-  name: Angular
-  level: 98%
+  name: Linux
+  level: 90%
 - skill:
-  name: HTML5 & CSS
+  name: DevOps
+  level: 80%
+- skill:
+  name: Docker
   level: 95%
 - skill:
-  name: Ruby on Rails
+  name: Git
+  level: 95%
+- skill:
+- skill:
+  name: Composer
+  level: 90%
+- skill:
+  name: HTML5 & CSS
+  level: 87%
+  name: Joomla
+  level: 95%
+- skill:
+  name: Wordpress
   level: 85%
 - skill:
-  name: Sketch & Photoshop
+  name: Laravel
+  level: 90%
+- skill:
+  name: Symfony
+  level: 80%
+- skill:
+  name: Magento
+  level: 70%
+- skill:
+  name: MySQL
+  level: 88%
+- skill:
+  name: Doctrine
+  level: 90%
+- skill:
+  name: Redis
+  level: 70%
+- skill:
+  name: Elasticsearch
+  level: 80%
+- skill:
+  name: PHP
+  level: 95%
+- skill:
+  name: PHPUnit
+  level: 80%
+- skill:
+  name: TypeScript
   level: 60%
+- skill:
+  name: Javascript
+  level: 70%
+- skill:
+  name: Angular
+  level: 70%
+- skill:
+  name: Vue.js
+  level: 40%
