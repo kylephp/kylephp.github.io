@@ -1,24 +1,31 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Some of my projects:"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: redITEM
+  link: "http://redcomponent.com/redcomponent/reditem"
+  tagline: "A content creation kit for Joomla."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: redSLIDER
+  link: "http://redcomponent.com/redcomponent/redslider"
+  tagline: "An unique responsive slider extension for Joomla."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: redMEMBER
+  link: "http://redcomponent.com/redcomponent/redmember"
+  tagline: "An extended user management extension for Joomla."
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: redSHOP
+  link: "http://redcomponent.com/redcomponent/redshop"
+  tagline: "an ecommerce solution for Joomla."
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Amagerisenkram
+  link: "https://www.amagerisenkram.dk/"
+  tagline: "An online retail shopping solution"
+- project:
+  title: Togt
+  link: "http://www.togt.dk/"
+  tagline: "A real estate management portal"
+- project:
+  title: Stickers.dk
+  link: "http://www.stickers.dk/"
+  tagline: "A graphic stock online shopping solution"
