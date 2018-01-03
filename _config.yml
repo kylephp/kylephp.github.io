@@ -24,7 +24,7 @@ summary: '<strong>Facts about me:</strong>
 #sidebar links
 email: kylephp.dev@gmail.com
 phone: +84 902 554 255
-website: kylephp.github.io/ #do not add http://
+website: kylephp.github.io #do not add http://
 github: kylephp
 twitter: '@kylephp'
 #Update all the sections by editing the files inside _data folder.
